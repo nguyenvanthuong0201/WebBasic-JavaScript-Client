@@ -1,6 +1,6 @@
-// var Dia_chi_Dich_vu=`http://localhost:1200/`
+var Dia_chi_Dich_vu=`http://localhost:1200/`
 //https://server-quanlynhanvien.herokuapp.com/
-var Dia_chi_Dich_vu=`https://server-quanlynhanvien.herokuapp.com/`
+// var Dia_chi_Dich_vu="https://server-quanlynhanvien.herokuapp.com/"
 
 function Doc_Danh_sach() {
     var Du_lieu = {}
