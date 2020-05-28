@@ -28,7 +28,6 @@ employee = {};
 function xu_ly_login() {
   var UserNameInput = document.getElementById("userName").value;
   var PasswordInput = document.getElementById("password").value;
-  console.log(Doc_Danh_sach());
   Doc_Danh_sach().forEach((employees) => {
     console.log(employees.Account.UserName);
     if (employees.Account.UserName == UserNameInput) {
